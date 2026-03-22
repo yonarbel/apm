@@ -32,7 +32,7 @@ All token-bearing requests use HTTPS. Tokens are never sent over unencrypted con
 
 For Azure DevOps, the only token source is `ADO_APM_PAT`.
 
-For JFrog Artifactory, use `ARTIFACTORY_APM_TOKEN`.
+For JFrog Artifactory, use `ARTIFACTORY_APM_TOKEN`. See the [Repository Proxy guide](../../enterprise/repository-proxy/) for setup instructions, transparent proxy configuration, and air-gapped mode.
 
 For runtime features (`GITHUB_COPILOT_PAT`), see [Agent Workflows](../../guides/agent-workflows/).
 

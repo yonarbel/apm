@@ -79,6 +79,7 @@ export default defineConfig({
 						{ label: 'Governance & Compliance', slug: 'enterprise/governance' },
 						{ label: 'Security Model', slug: 'enterprise/security' },
 						{ label: 'Adoption Playbook', slug: 'enterprise/adoption-playbook' },
+						{ label: 'Repository Proxy', slug: 'enterprise/repository-proxy' },
 						{ label: 'Making the Case', slug: 'enterprise/making-the-case' },
 					],
 				},
